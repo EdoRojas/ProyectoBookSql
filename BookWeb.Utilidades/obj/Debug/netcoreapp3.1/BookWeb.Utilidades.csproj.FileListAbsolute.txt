@@ -1,0 +1,8 @@
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.Utilidades\bin\Debug\netcoreapp3.1\BookWeb.Utilidades.deps.json
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.Utilidades\bin\Debug\netcoreapp3.1\BookWeb.Utilidades.dll
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.Utilidades\bin\Debug\netcoreapp3.1\BookWeb.Utilidades.pdb
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.Utilidades\obj\Debug\netcoreapp3.1\BookWeb.Utilidades.csprojAssemblyReference.cache
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.Utilidades\obj\Debug\netcoreapp3.1\BookWeb.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.Utilidades\obj\Debug\netcoreapp3.1\BookWeb.Utilidades.AssemblyInfo.cs
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.Utilidades\obj\Debug\netcoreapp3.1\BookWeb.Utilidades.dll
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.Utilidades\obj\Debug\netcoreapp3.1\BookWeb.Utilidades.pdb

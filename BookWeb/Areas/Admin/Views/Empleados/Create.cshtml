@@ -1,0 +1,74 @@
+﻿@model BookWeb.Models.ViewModels.EmpleadoVM
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<h3 class="text-center"> Crear un nuevo empleado</h3>
+<form method="post" asp-action="Create" enctype="multipart/form-data">
+    <div class="row px-2 mx-2 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-10 offset-1 mt-4">
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Empleados.Nombre"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Empleados.Nombre" class="form-control" />
+                    <span asp-validation-for="Empleados.Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Empleados.Apa"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Empleados.Apa" class="form-control"> </input>
+                    <span asp-validation-for="Empleados.Apa" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Empleados.Ama"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Empleados.Ama" class="form-control" />
+                    <span asp-validation-for="Empleados.Ama" class="text-danger"></span>
+                </div>
+            </div>
+
+
+
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Empleados.Idperfiles"></label>
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(m => m.Empleados.Idperfiles, Model.ListaPerfiles,
+                     "-Porfavor seleccione un perfil-", new { @class = "form-control" })
+                </div>
+            </div>
+
+
+            <div class="form-group row">
+                <div class="col-8 offset-4">
+                    <partial name="_VistaCrearVolver" />
+                </div>
+            </div>
+
+        </div>
+    </div>
+</form>
+
+
+@section Scripts{
+
+}
+

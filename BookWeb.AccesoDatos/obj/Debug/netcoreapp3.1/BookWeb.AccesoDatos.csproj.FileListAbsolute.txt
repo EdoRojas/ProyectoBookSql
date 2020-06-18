@@ -1,0 +1,13 @@
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\bin\Debug\netcoreapp3.1\BookWeb.AccesoDatos.deps.json
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\bin\Debug\netcoreapp3.1\BookWeb.AccesoDatos.dll
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\bin\Debug\netcoreapp3.1\BookWeb.AccesoDatos.pdb
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\bin\Debug\netcoreapp3.1\BookWeb.Models.dll
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\bin\Debug\netcoreapp3.1\BookWeb.Utilidades.dll
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\bin\Debug\netcoreapp3.1\BookWeb.Models.pdb
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\bin\Debug\netcoreapp3.1\BookWeb.Utilidades.pdb
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\obj\Debug\netcoreapp3.1\BookWeb.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\obj\Debug\netcoreapp3.1\BookWeb.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\obj\Debug\netcoreapp3.1\BookWeb.AccesoDatos.AssemblyInfo.cs
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\obj\Debug\netcoreapp3.1\BookWeb.AccesoDatos.csproj.CopyComplete
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\obj\Debug\netcoreapp3.1\BookWeb.AccesoDatos.dll
+C:\Users\Edo\Source\Repos\ProyectoBookSql\BookWeb.AccesoDatos\obj\Debug\netcoreapp3.1\BookWeb.AccesoDatos.pdb
